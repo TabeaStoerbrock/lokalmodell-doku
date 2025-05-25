@@ -1,0 +1,5 @@
+title: "lokalmodell-doku"
+description: "Dokumentation: Sprachmodell lokal mit GPT4All unter Windows"
+theme: minima
+markdown: kramdown
+permalink: pretty
