@@ -1,5 +1,3 @@
-# Projektübersicht: Lokales Sprachmodell einrichten
-
 ## Ziel
 Ein datenschutzfreundliches, lokal laufendes Sprachmodell installieren, testen und dokumentieren.
 
